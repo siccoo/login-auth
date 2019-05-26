@@ -5,7 +5,7 @@
 -   Fork the repo
 -   Clone your forked version to your laptop (local machine)
 -   Create a branch on what you are working on. i.e git checkout -b frontend
--   Keep track of the upstream - git remote add upstream <the original repo url>
+-   Keep track of the upstream - git remote add upstream the original repo url
 -   After working and you are ready to push:
 
 -   To update your local copy - git fetch upstream
